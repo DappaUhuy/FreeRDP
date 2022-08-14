@@ -1,4 +1,4 @@
-name: RUNNING
+name: RDP
 on: workflow_dispatch
 jobs:
   build:
